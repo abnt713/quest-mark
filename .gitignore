@@ -1,6 +1,9 @@
+# Python compiled files
+*.pyc
+
 # Quest mark ignores
 conf/config.py
-
+venv/*
 
 # IntelliJ project files
 .idea
