@@ -1,0 +1,10 @@
+# Quest mark ignores
+conf/config.py
+
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
